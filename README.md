@@ -3,7 +3,9 @@
 
 ## The goal for the challenge was to "fix" the problems this the HTML and CSS that could make the webpage more accessible for viewers
 
-Having a more accessible webpage allows the viewers to fully use the webpage with out and hurrdels preventing them from completly using a full functioning webpage. 
+Having a more accessible webpage allows the viewers to fully use the webpage with out any hurrdels preventing them from completly using a fully functioning webpage. 
+  
+  link to webpage:file:///Users/ashontimadison/Desktop/Homework/codeRefactor/CodeRefactor-1/Develop/index.html
 
 This was made possible by erasing some empty divs and adding semactic elements for accessiblity. As well as fixing the broken link on the webpage.
 Also fixed the CSS code by deleting a lot of repaeting selectors and properties by consildateding them and re organizing them.
