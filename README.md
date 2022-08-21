@@ -10,3 +10,5 @@ Also fixed the CSS code by deleting a lot of repaeting selectors and properties 
 
 
 ##Refractored code
+<img width="722" alt="Screen Shot 2022-08-18 at 8 51 46 PM" src="https://user-images.githubusercontent.com/106761213/185814573-d671e813-86e9-40f5-8b58-7d4758492013.png">
+<img width="1035" alt="Screen Shot 2022-08-21 at 5 24 19 PM" src="https://user-images.githubusercontent.com/106761213/185814577-5eb34eb5-7edd-4a6b-81a1-b28b73686191.png">
