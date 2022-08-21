@@ -5,7 +5,7 @@
 
 Having a more accessible webpage allows the viewers to fully use the webpage with out any hurrdels preventing them from completly using a fully functioning webpage. 
   
-  link to webpage [1]file:///Users/ashontimadison/Desktop/Homework/codeRefactor/CodeRefactor-1/Develop/index.html "Here"
+  link to webpage [Here](file:///Users/ashontimadison/Desktop/Homework/codeRefactor/CodeRefactor-1/Develop/index.html
 
 This was made possible by erasing some empty divs and adding semactic elements for accessiblity. As well as fixing the broken link on the webpage.
 Also fixed the CSS code by deleting a lot of repaeting selectors and properties by consildateding them and re organizing them.
